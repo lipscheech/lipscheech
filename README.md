@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Filipe Cavalcante dos Santos
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-cavalcante-31439913a/)](https://www.linkedin.com/in/filipe-cavalcante-31439913a/)
+
+### Hellooo! 👋 Welcome to my profile
