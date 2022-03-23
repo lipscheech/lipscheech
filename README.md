@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 # Filipe Cavalcante dos Santos
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lipscheech)](https://www.linkedin.com/in/filipe-cavalcante-31439913a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lipscheech)](https://www.linkedin.com/in/lipscheech)
 
 ### Hellooo! 👋 Welcome to my profile
