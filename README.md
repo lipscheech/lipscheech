@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <a href="mailto:cavalcante.filipe97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-<div align="center" margin="10px auto">
+<div align="center" margin="10px">
   <a href="https://github.com/lipscheech">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s7Thiago&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lipscheech&theme=blue-green"/>
