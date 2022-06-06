@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   </div>
   
   #
-  <div style="display:flex;width:70%;">
-<a style="display:flex;flex-direction:co-reverse;" href="https://lipscheech.github.io/" target="_blank">Access my personal page <img src="assets/external-link.svg"></a>
-</div>
+<div style="display:flex;width:70%;">
+    <a style="display:flex;flex-direction:co-reverse;" href="https://lipscheech.github.io/" target="_blank">Access my personal page</a>
+ </div>
   
