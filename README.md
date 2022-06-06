@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 # 👋 Hello! Welcome to my GitHub profile.
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=lipscheech&color=green"/>
-  <img src="https://badges.pufler.dev/commits/yearly/lipscheech"/>
+  <img src="https://komarev.com/ghpvc/?username=lipscheech&color=green?style=for-the-badge&logo=appveyor"/>
+  <img src="https://badges.pufler.dev/commits/yearly/lipscheech?style=for-the-badge&logo=appveyor"/>
 </div>
 
 ## I am Filipe Cavalcante
@@ -33,23 +33,22 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/lipscheech">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s7Thiago&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lipscheech&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipscheech&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### -💻 I'm currently working on this tecnologies
   <div align="center" style="display: inline-block">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40 width=40 align="center" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height=40 width=40 align="center" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=40 width=40 align="center" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=40 width=40 align="center" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height=40 width=40 align="center" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=40 width=40 align="center" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=40 width=40 align="center" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=40 width=40 align="center" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=40 width=40 align="center"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height=40 width=40 align="center" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50 width=50 align="center" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height=50 width=50 align="center" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=50 width=50 align="center" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=50 width=50 align="center" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height=50 width=50 align="center" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=50 width=50 align="center" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=50 width=50 align="center" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=50 width=50 align="center" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height=50 width=50 align="center" />
           
   </div>
   
@@ -57,11 +56,23 @@ Here are some ideas to get you started:
  ### -📖 I'm currently learning
 
   <div align="center" style="display: inline-block">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=40 align="center"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 width=40 align="center"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height=40 width=40 align="center"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height=40 width=40 align="center"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height=40 width=40 align="center"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 width=40 align="center"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height=40 width=40 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height=50 width=50 align="center"/>
   </div>
+  
+  ### -💡 My interests
+  
+  <div align="center" style="display: inline-block">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height=50 width=50 align="center"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height=50 width=50 align="center"/>
+  </div>
+  
+  
+  
