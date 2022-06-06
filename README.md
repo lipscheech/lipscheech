@@ -31,14 +31,11 @@ Here are some ideas to get you started:
   </div>
 &nbsp;
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipscheech&layout=demo)](https://github.com/lipscheech/github-readme-stats)
-
-
 <div align="center">
   <a href="https://github.com/lipscheech">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s7Thiago&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lipscheech&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipscheech&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lipscheech&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipscheech&layout=demo&langs_count=7&theme=dracula"/>
 </div>
 
 ### -💻 I'm currently working on this tecnologies
