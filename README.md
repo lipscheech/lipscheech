@@ -56,7 +56,6 @@ Here are some ideas to get you started:
  ### -📖 I'm currently learning
 
   <div align="center" style="display: inline-block">
-    
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=40 align="center"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 width=40 align="center"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height=40 width=40 align="center"/>
