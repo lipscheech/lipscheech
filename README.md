@@ -74,5 +74,8 @@ Here are some ideas to get you started:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height=50 width=50 align="center"/>
   </div>
   
-  
+  #
+  <div style="display:flex;width:70%;">
+<a style="display:flex;flex-direction:co-reverse;" href="https://lipscheech.github.io/" target="_blank">Access my personal page <img src="assets/external-link.svg"></a>
+</div>
   
