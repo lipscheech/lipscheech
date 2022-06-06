@@ -48,7 +48,5 @@ Here are some ideas to get you started:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=30 width=30 />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=30 width=30 />
           
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height=30 width=30 />
   </div>
 
