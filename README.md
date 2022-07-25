@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipscheech&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### -💻 I'm currently working on this tecnologies
+### -💻 I'm currently working on
   <div align="center" style="display: inline-block">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50 width=50 align="center" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height=50 width=50 align="center" />
