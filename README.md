@@ -22,7 +22,7 @@ Here are some ideas to get you started:
    <img src="https://badges.pufler.dev/commits/yearly/lipscheech"/>
 </div> -->
 
-<div align="center">
+<div align="center" style="margin-bottom: 2rem">
   <h2>I am Filipe Cavalcante</h2>
 </div>
 
