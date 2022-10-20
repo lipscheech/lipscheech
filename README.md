@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # 👋 Hello! Welcome to my GitHub.
 
-<!-- <div>
+<!--  <div>
   <img src="https://komarev.com/ghpvc/?username=lipscheech&color=green"/>
-<!--   <img src="https://badges.pufler.dev/commits/yearly/lipscheech"/> -->
+   <img src="https://badges.pufler.dev/commits/yearly/lipscheech"/>
 </div> -->
 
 ## I am Filipe Cavalcante
