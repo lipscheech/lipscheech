@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 👋 Hello! Welcome to my GitHub.
-
+<div align="center">
+  # 👋 Hello! Welcome to my GitHub.
+</div>
 <!--  <div>
   <img src="https://komarev.com/ghpvc/?username=lipscheech&color=green"/>
    <img src="https://badges.pufler.dev/commits/yearly/lipscheech"/>
 </div> -->
 
-## I am Filipe Cavalcante
+<div align="center">
+  ## I am Filipe Cavalcante
+</div>
 
 
   <div align="center">
