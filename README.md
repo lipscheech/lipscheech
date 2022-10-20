@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  # 👋 Hello! Welcome to my GitHub.
+  <h1>👋 Hello! Welcome to my GitHub.</h1>
 </div>
 <!--  <div>
   <img src="https://komarev.com/ghpvc/?username=lipscheech&color=green"/>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div> -->
 
 <div align="center">
-  ## I am Filipe Cavalcante
+  <h2>I am Filipe Cavalcante</h2>
 </div>
 
 
