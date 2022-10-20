@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <h2>I am Filipe Cavalcante</h2>
 </div>
 
-<div>;nbsp</div>
+<div>&nbsp</div>
 
 
   <div align="center">
