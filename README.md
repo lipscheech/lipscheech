@@ -80,6 +80,7 @@ Here are some ideas to get you started:
   
   #
 <div style="display:flex;width:70%;">
-    <a style="display:flex;flex-direction:co-reverse;" href="https://lipscheech.github.io/" target="_blank">Access my personal page</a>
+   <!-- <a style="display:flex;flex-direction:co-reverse;" href="https://lipscheech.github.io/" target="_blank">Access my personal page</a> -->
+  <a style="display:flex;flex-direction:co-reverse;" href="https://cursos.alura.com.br/emprega-one/profile/cavalcante-filipe97" target="_blank">Access my personal page</a>
  </div>
   
